@@ -1,18 +1,17 @@
 {
-  "name": "com.xxxl0c.utils.sprite-slicer",
+  "name": "com.xxxl0c.utils",
   "version": "1.0.0",
-  "displayName": "L0C__Utils:SpriteSlicer",
-  "description": "A utility for slicing sprites.",
+  "displayName": "L0C__Utils",
+  "description": "Various utilities for Unity.",
   "unity": "6000.3",
   "keywords": [
-    "sprite",
-    "editor",
-    "utility"
+    "editor-extension",
+    "utilities"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/xxxL0C/L0C__Utils",
-    "directory": "Assets/XXXL0C/Utils/SpriteSlicer"
+    "directory": "Assets/XXXL0C/Utils"
   },
   "dependencies": {
     "com.unity.2d.sprite": "1.0.0"
