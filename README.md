@@ -11,14 +11,14 @@ xxxL0Cによるさまざまなエディタ拡張（2D用）
 |項目|内容|
 | --- | --- |
 | 依存パッケージ | `com.unity.2d.sprite` |
-| 名前空間 | `XXXL0C.Utils` |
+| 名前空間 | `XXXL0C.Utils` / `XXXL0C.Utils.Editor` |
 
 ## インストール
 
 Package Managerの `Add package from git URL` メニューにて、下記URLをコピー&ペーストしてください。
 
 ```plaintext
-https://github.com/xxxL0C/L0C__Utils.git?path=Assets/XXXL0C/Utils/SpriteSlicer
+https://github.com/xxxL0C/L0C__Utils.git?path=Assets/XXXL0C/Utils
 ```
 
 ---
