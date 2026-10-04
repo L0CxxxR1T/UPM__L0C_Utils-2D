@@ -1,7 +1,6 @@
 # \[ L0C_Utils:2D \]
 
 ![バージョン](https://img.shields.io/badge/ver-1.0.0-1458b8?style=flat-square&labelColor=black)
-![Unity](https://img.shields.io/badge/Unity-6000.3%2B-1458b8?style=flat-square&labelColor=black&logo=unity&logoColor=white)
 ![ライセンス](https://img.shields.io/badge/license-MIT-1458b8?style=flat-square&labelColor=black)
 
 2D 制作向けの Unity エディタ拡張集です。
@@ -99,3 +98,7 @@ Sprite Mode が Multiple のテクスチャについて、各 Sprite の矩形�
 [MIT License](LICENSE)
 
 © 2026 L0C_R1T
+
+![X(Publisher)](https://img.shields.io/badge/%40xxxL0C-black?style=flat&logo=x&logoColor=white&labelColor=black&link=https%3A%2F%2Fx.com%2FxxxL0C)
+![Github](https://img.shields.io/badge/-black?style=flat-square&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Fgithub.com%2FL0CxxxR1T)
+![Bluesky(Private)](https://img.shields.io/badge/-black?style=flat-square&logo=bluesky&logoColor=white&labelColor=black&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fxxxl0c.works)
