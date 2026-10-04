@@ -41,9 +41,6 @@
 
 # Visual Studio cache directory
 .vs/
-.vscode/
-.claude/
-CLAUDE.md
 
 # Gradle cache directory
 .gradle/
@@ -109,15 +106,37 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
-/[Aa]ssets/Scenes/
-/[Aa]ssets/Scenes.meta
-/[Aa]ssets/Settings/
-/[Aa]ssets/Settings.meta
-/[Aa]ssets/InputSystem_Actions.inputactions
-/[Aa]ssets/InputSystem_Actions.inputactions.meta
-/[Aa]ssets/DefaultVolumeProfile.asset
-/[Aa]ssets/DefaultVolumeProfile.asset.meta
-/[Aa]ssets/UniversalRenderPipelineGlobalSettings.asset
-/[Aa]ssets/UniversalRenderPipelineGlobalSettings.asset.meta
-*.unity
-*.unity.meta
+
+#
+# ---- ここからプロジェクト固有 ----
+#
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# エディタ / IDE (共有する設定だけ残す)
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+
+# Claude Code の個人設定
+.claude/settings.local.json
+CLAUDE.local.md
+
+# uLoop: Editor から再生成されるツール定義キャッシュ
+/.uloop/tools.json
+
+# ローカル専用のエディタ拡張
+/[Aa]ssets/[Pp]lugins/UnityEditorDarkMode*
+
+# 作業用シーンは SampleScene 以外コミットしない
+/[Aa]ssets/[Ss]cenes/*
+!/[Aa]ssets/[Ss]cenes/SampleScene.unity
+!/[Aa]ssets/[Ss]cenes/SampleScene.unity.meta
+
+# hooksPath=/dev/null 指定時に Windows で誤生成されるフック置き場
+/dev/null/

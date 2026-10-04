@@ -1,0 +1,27 @@
+{
+  "name": "works.xxxl0c.utils-2d",
+  "version": "1.0.0",
+  "displayName": "L0C_Utils:2D",
+  "description": "2D向けのエディタ拡張ユーティリティ集。\nPSDのキャンバス基準ピボット設定やスプライトのトリミングを行う。",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.unity.2d.psdimporter": "12.0.2",
+    "com.unity.2d.sprite": "1.0.0"
+  },
+  "keywords": [
+    "2d",
+    "editor",
+    "psd",
+    "sprite"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/L0CxxxR1T/UPM__L0C_Utils-2D",
+    "directory": "Packages/works.xxxl0c.utils-2d"
+  },
+  "author": {
+    "name": "L0C_R1T",
+    "url": "https://github.com/L0CxxxR1T",
+    "email": "contact@dev.xxxl0c.works"
+  }
+}

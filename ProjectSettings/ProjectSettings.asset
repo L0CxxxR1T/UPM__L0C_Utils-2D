@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 5b39f999683498346b7f582198c91a47
+  productGUID: 7331ede5cc8daf44f915a5c743dbbb99
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: L0C__EXTS
+  productName: L0C__Util_2D
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -47,7 +47,7 @@ PlayerSettings:
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
-  m_ActiveColorSpace: 1
+  m_ActiveColorSpace: 0
   unsupportedMSAAFallback: 0
   m_SpriteBatchMaxVertexCount: 65535
   m_SpriteBatchVertexThreshold: 300
@@ -605,14 +605,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: L0C__EXTS
+  metroPackageName: L0C__Util_2D
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: L0C__EXTS
+  metroApplicationDescription: L0C__Util_2D
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -681,12 +681,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 009c05df-c0fe-4fb2-b9f9-c9865a7be853
+  cloudProjectId: f9b700e8-d9a8-4661-bab5-d70e7a96d1df
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: L0C__Basics
+  projectName: L0C__Util_2D
   organizationId: fuyuhitsugi
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

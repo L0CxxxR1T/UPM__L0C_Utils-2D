@@ -1,0 +1,19 @@
+{
+    "name": "XXXL0C.Utils2D.Editor",
+    "rootNamespace": "XXXL0C.Utils2D.Editor",
+    "references": [
+        "Unity.2D.Psdimporter.Editor",
+        "Unity.2D.Sprite.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
